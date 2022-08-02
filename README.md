@@ -1,4 +1,4 @@
-# Git - The Simple Guide
+# Git - 简明指南
 
 http://aluopy.cn/git-guide
 
